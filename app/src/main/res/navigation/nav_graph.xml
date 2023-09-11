@@ -23,4 +23,9 @@
         android:name="com.saeedev.passmanager.MainFragment"
         android:label="fragment_main"
         tools:layout="@layout/fragment_main" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.saeedev.passmanager.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
 </navigation>
