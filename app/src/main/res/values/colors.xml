@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!--Theme color-->
+    <color name="color_main">#4269F2</color>
+
 </resources>
